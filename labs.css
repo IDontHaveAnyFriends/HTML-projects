@@ -1,0 +1,37 @@
+/*css vor labs.html*/
+#Div1{
+	box-shadow: 4px 4px 2px #FFFFFF;
+	border: solid;
+	width: 80%;
+	height: 80px;
+	font-size: 20px;
+	margin: auto;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+#Div2{
+	box-shadow: border;
+	border: solid;
+	width: 80%;
+	height: 220px;
+	font-size: 15px;
+	margin-left: 5%;
+	margin-bottom: 3%;
+}
+#Div3{
+	box-shadow: border;
+	border: solid;
+	width: 80%
+	height: 150px;
+	margin-left: 3%;
+}
+#Div4{
+	box-shadow: border;
+	border: solid;
+	width: 80%;
+	height: 100px;
+	margin-left: 0%;
+}
+
+
+
