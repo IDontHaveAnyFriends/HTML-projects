@@ -5,16 +5,15 @@
         height: 460px;                      /*Vastgezette afmetingen van de pagina*/
         font-family: Times !important;                      /*!important zorgt ervoor dat niets kan veranderen wat je voor important hebt gedclareerd*/
        }
-	   h1{
-		    text-align: center;
+     h1{
+	text-align: center;
         background-color: #FFFFFF;
         background-size: auto;
 	    }
-	  body{
+      body{
       width: 760px;
       height: 460px;
-	  	background-image: url(achtergrond.jpg);
-
+      background-image: url(achtergrond.jpg);
       }
       input[type=button]{
         width: 3cm;
@@ -27,13 +26,13 @@
         background-color: #FFFFFF;
         width: auto;
       }
-	    #menu{
-	  	border:	1px solid;
-	  	background-color: #000000;
-	   	width:	5cm;
-	  	height:	8cm; 
+      #menu{
+      border: 1px solid;
+      background-color: #000000;
+      width: 5cm;
+      height: 8cm; 
       margin-left: 0px; 	 	
-	    }
+      }
       #overmij{
       width: 37em;
       height: auto;
